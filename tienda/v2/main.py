@@ -6,8 +6,9 @@ Que incluye_
    - Decisiones, validaciones
 
 Que problemas tiene esta version (v2): BUGS
-  1. 
-   '''
+  9.  El trabajo se puede perder, cuando se ingresa mal un valor, el programa termina. El programa no deberia terminar,
+  sino que deberia repetir hasta que el valor ingresado se ingrese bien, CICLOS (While, for): Se resuelve en la version 3
+'''
 
 #output
 print("Ingrese el nombre del pruducto que va a comprar: ")
